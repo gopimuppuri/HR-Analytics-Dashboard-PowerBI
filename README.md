@@ -5,7 +5,7 @@ A comprehensive HR Analytics Dashboard built in Power BI to provide actionable w
 
 ## Dashboard Preview
 
-(Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## Key Metrics
 - Overall Employees
